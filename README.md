@@ -20,8 +20,8 @@ This is a solution to the [Intro section with dropdown navigation](https://www.f
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com) Currently not submited
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com) Currently not submited
+- Solution URL: https://www.frontendmentor.io/solutions/use-of-bootstrap-technology-introsectionwithdropdownnavigation-Sds3S9utrN
+- Live Site URL: https://expertomontanero.github.io/intro-section-with-dropdown-navigation-main/
 
 ### Built with
 
